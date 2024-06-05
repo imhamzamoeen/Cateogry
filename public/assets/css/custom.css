@@ -1,0 +1,27 @@
+/* Custom Template Styling starts here  */
+
+/* .card-header {
+    padding: 0.5rem 2.5rem;
+} */
+
+.register-logo {
+    padding: 10px;
+}
+
+.transform-me {
+    text-transform: capitalize;
+}
+
+section .row .col-12 .card {
+    padding: 10px;
+}
+
+.highlight {
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.cus-mt-1 {
+    margin-top: 10px;
+}

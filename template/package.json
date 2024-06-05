@@ -1,0 +1,46 @@
+{
+  "name": "vuexy-html-bootstrap-admin-template",
+  "version": "7.3.0",
+  "description": "Vuexy admin is super flexible, powerful, clean & modern responsive bootstrap 5 HTML admin template with unlimited possibilities.",
+  "author": "PIXINVENT",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:pixinvent/vuesax-vuejs-admin-template.git"
+  },
+  "license": "ThemeForest Standard Licenses",
+  "private": true,
+  "homepage": "https://pixinvent.com/demo/vuexy-html-bootstrap-admin-template/html/ltr/vertical-menu-template/",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "async": "^3.1.0",
+    "bootstrap": "~5.1.0",
+    "gulp-cli": "^2.2.0",
+    "gulp-concat": "^2.6.1"
+  },
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-util": "~3.0.8",
+    "gulp-autoprefixer": "~7.0.0",
+    "gulp-clean": "~0.4.0",
+    "gulp-copy": "~4.0.1",
+    "gulp-csscomb": "~3.0.8",
+    "gulp-cssmin": "~0.2.0",
+    "gulp-multistream": "~0.1.2",
+    "gulp-notify": "~3.0.0",
+    "gulp-plumber": "~1.1.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-replace": "~1.0.0",
+    "gulp-rtlcss": "^1.4.0",
+    "gulp-require-tasks": "~1.2.1",
+    "gulp-sass": "~4.0.2",
+    "gulp-sequence": "~1.0.0",
+    "gulp-uglify": "~3.0.0",
+    "gulp-terser": "^1.4.0",
+    "gulp-watch": "~5.0.1",
+    "merge-stream": "~2.0.0",
+    "minimist": "~1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
